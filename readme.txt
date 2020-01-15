@@ -1,2 +1,2 @@
-Git is a distributed version control file2
-Git is free software file
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
